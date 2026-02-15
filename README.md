@@ -47,18 +47,3 @@ If upgrading from earlier development builds, delete:
 -   Windows DPAPI for secure API key storage
 
 ------------------------------------------------------------------------
-
-## 📈 Roadmap
-
--   Auto‑update support
--   GOG / Xbox / Ubisoft integration
--   Dark mode
--   Game tagging and filters
--   Random history & statistics
-
-------------------------------------------------------------------------
-
-## 📄 License
-
-MIT License
-****
