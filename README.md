@@ -48,3 +48,4 @@ If upgrading from earlier development builds, delete:
 -   Windows DPAPI for secure API key storage
 
 ------------------------------------------------------------------------
+Just a little reminder! If you enjoy what I create, you can support me at https://ko-fi.com/rubenaipassa
