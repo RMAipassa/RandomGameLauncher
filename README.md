@@ -24,6 +24,7 @@ defeating decision fatigue and tackling that ever‑growing backlog.
 -   🖥 Tray icon with quick launch / settings
 -   💾 Remembers window size, position, and preferences
 -   🎨 Custom dice icon
+-   🏷️ Launch games based on tags
 
 ------------------------------------------------------------------------
 
