@@ -16,6 +16,11 @@ defeating decision fatigue and tackling that ever‑growing backlog.
 
 -   ✅ Detects installed **Steam games** (multi‑library support)
 -   ✅ Detects installed **Epic Games**
+-   ✅ Detects installed **GOG Games**
+-   ✅ Detects installed **Riot Games**
+-   ✅ Detects installed **Amazon Games**
+-   ✅ Detects installed **Xbox Games**
+-   ✅ Detects installed **Ubisoft Connect Games**
 -   🎲 Launch a truly random game
 -   ⭐ Favorites system & **Favorites‑only mode**
 -   🚫 Exclude games you don’t want included
